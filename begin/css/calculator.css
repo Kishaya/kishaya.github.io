@@ -63,36 +63,3 @@ body {
 
 }
 
-/* styling nav bar */
-
-nav ul {
-    padding: 20px;
-    list-style-type: none;
-    background-color: darkmagenta;
-    
-    
-}
-
-nav li {
-    display: inline-block;
-    padding: 15px;
-
-}
-
-nav a {
-   color: white;
-   text-decoration: none;
-}
-
-input {
-    display: flex;
-    padding: 10px;
-    width: 50%;
-    float: right;
-
-}
-input:hover {
-    background-color: #dfb07e;
-    color: white;
-   
-}
